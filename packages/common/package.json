@@ -1,5 +1,5 @@
 {
-  "name": "@repo/commons",
+  "name": "@repo/common",
   "version": "1.0.0",
   "main": "index.js",
   "exports":{
@@ -11,9 +11,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
-  "dependencies": {
-    "express": "^4.21.2",
-    "zod": "^3.24.1"
-  }
+  "description": ""
 }
